@@ -2,3 +2,4 @@
 %project=qlibre
 %uri=https://github.com/Moxigen/qlibre
 
+uuid-ossp 2013-08-11T00:57:42Z Wes Cravens <wcravens@moxigen.com> # Add uuid generator extension uuid-ossp
